@@ -97,8 +97,10 @@ nav ul {
 }
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("pexels-mali-245754.jpg");
+  /* background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
+    url("pexels-mali-245754.jpg"); */
+  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
+    url("/pexels-bess-hamiti-83687-36487.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -114,6 +116,8 @@ nav ul {
 
 .hero h3 {
   padding: 5rem;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
 }
 
 /* benefits section */
