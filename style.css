@@ -98,7 +98,7 @@ nav ul {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/pexels-mali-245754.jpg");
+    url("pexels-mali-245754.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -121,7 +121,7 @@ nav ul {
 #locations {
   min-height: 100vh;
   background: linear-gradient(black, rgba(0, 0, 0, 0.5)),
-    url("/img/pexels-pixabay-164357.jpg");
+    url("pexels-pixabay-164357.jpg");
   background-position: center;
   background-size: cover;
   color: white;
@@ -258,7 +258,7 @@ svg {
 #contact {
   min-height: 100vh;
   background: linear-gradient(black, rgba(0, 0, 0, 0.5)),
-    url("/img/pexels-mali-245754.jpg");
+    url("pexels-mali-245754.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
